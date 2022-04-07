@@ -13,4 +13,9 @@ Game plan for success and Markdown practice
 
 We can learn a few `tips` from this `cat`:
 
+```javascript
+vars s= "JavaScript syntax highlighting";
+alert(s);
+```
+
 ![Be like a cat] [Cute-cat-lying-on-his-back-on-the-carpet.-Breed-British-mackerel-with-yellow-eyes-and-a-bushy-mustache.-Close-up-e1573490045672 2.jpg]
